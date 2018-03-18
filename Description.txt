@@ -1,0 +1,3 @@
+The report presents the derivation and validation of the fourier coecients of the functions e x and
+cos(cos(x)). Initially we will be plotting the functions by using the matplotlib.pyplot abilities and later
+we will be plotting the fourier approximation of the same for cross validation of the same.
